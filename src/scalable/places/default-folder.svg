@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <linearGradient id="linearGradient938" x1="-23.256" x2="-7.173" y1="16.496" y2="16.496" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5587ff" offset="0"/>
+   <stop stop-color="#4bd2f5" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-330.35" cy="-328.38" r="0"/>
+  <circle cx="-312.11" cy="-326.25" r="0"/>
+  <circle cx="-306.02" cy="-333.07" r="0"/>
+  <circle cx="-308.84" cy="-326.01" r="0"/>
+ </g>
+ <g transform="matrix(.98705 0 0 .99334 .11011 .056415)">
+  <g transform="translate(-34.76,-8.4665)">
+   <g transform="translate(58.44 .43655)" fill-rule="evenodd">
+    <rect x="-18.961" y="11.065" width="11.087" height="8.1683" ry=".53121" fill="#4b73ff" style="paint-order:stroke fill markers"/>
+    <path d="m-22.424 10.104c-0.46063 0-0.83146 0.37082-0.83146 0.83146v11.122c0 0.46063 0.37082 0.83146 0.83146 0.83146h14.42c0.46063 0 0.83146-0.37082 0.83146-0.83146v-7.5211c-3.35e-4 -0.22982-0.092859-0.43702-0.24287-0.58703-0.15029-0.15029-0.35827-0.24339-0.58858-0.24339h-6.6708c-0.52261 0-1.1422-0.37082-1.389-0.83146l-2.0288-2.7705z" fill="url(#linearGradient938)" style="paint-order:stroke fill markers"/>
+   </g>
+   <rect x="36.665" y="13.614" width="4.238" height=".52916" rx=".20928" ry=".26458" fill="#4b73ff" stroke-width=".91817" style="paint-order:fill markers stroke"/>
+  </g>
+ </g>
+</svg>
