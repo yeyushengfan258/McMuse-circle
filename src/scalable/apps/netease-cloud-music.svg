@@ -21,6 +21,10 @@
   <filter id="filter1877" x="-.027479" y="-.021303" width="1.055" height="1.0426" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.072702461"/>
   </filter>
+  <linearGradient id="a-3" x1="32" x2="32" y1="2" y2="62" gradientTransform="matrix(.26458 0 0 .26458 .066868 .21518)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f5faff" offset="0"/>
+   <stop stop-color="#cfdef0" offset="1"/>
+  </linearGradient>
  </defs>
  <metadata>
   <rdf:RDF>
@@ -31,6 +35,7 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
+ <circle cx="8.4665" cy="8.4665" r="7.9373" fill="url(#a-3)" stroke-width=".26458" style="paint-order:stroke markers fill"/>
  <g transform="translate(67.325 14.612)">
   <path d="m-51.583-6.1452c0 0.87223-0.15353 1.7085-0.43508 2.4836-0.19571 0.5387-0.45318 1.048-0.76442 1.5191-0.13037 0.19807-0.27054 0.38935-0.41933 0.57317-0.47634 0.5883-1.0424 1.1006-1.6779 1.5164-0.23402 0.15324-0.47725 0.29342-0.72907 0.41902-0.97788 0.48939-2.0818 0.76468-3.2501 0.76468s-2.2722-0.27529-3.2501-0.7647c-0.25184-0.12563-0.49536-0.2658-0.72938-0.41902-0.64355-0.42141-1.2164-0.94176-1.6966-1.5398-0.14907-0.18531-0.28896-0.37835-0.41933-0.5782-0.30292-0.46327-0.55385-0.96312-0.74569-1.4914-0.28151-0.77483-0.43477-1.6108-0.43477-2.4827 0-4.0184 3.2575-7.2759 7.2759-7.2759 2.0171 0 3.8423 0.82084 5.1603 2.1465 0.37982 0.38189 0.7175 0.806 1.0049 1.2645 0.27174 0.43181 0.49891 0.89448 0.67561 1.3812 0.28158 0.77511 0.4351 1.6114 0.4351 2.4836z" fill="url(#linearGradient1634)" stroke-width=".028422"/>
   <g transform="translate(9.5328 -.26105)">
@@ -85,4 +90,16 @@
  </g>
  <circle cx="-5.2346" cy="44.956" r="0" fill="url(#i)" image-rendering="optimizeSpeed" stroke-width=".26458"/>
  <circle cx="-19.466" cy="50.818" r="0" fill="none" image-rendering="optimizeSpeed" stroke="url(#f)" stroke-width=".56347"/>
+ <g transform="translate(4.858 .17972)" fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-330.35" cy="-328.38" r="0"/>
+  <circle cx="-312.11" cy="-326.25" r="0"/>
+  <circle cx="-306.02" cy="-333.07" r="0"/>
+  <circle cx="-308.84" cy="-326.01" r="0"/>
+ </g>
+ <g transform="translate(4.858 .17972)" fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-330.35" cy="-328.38" r="0"/>
+  <circle cx="-312.11" cy="-326.25" r="0"/>
+  <circle cx="-306.02" cy="-333.07" r="0"/>
+  <circle cx="-308.84" cy="-326.01" r="0"/>
+ </g>
 </svg>

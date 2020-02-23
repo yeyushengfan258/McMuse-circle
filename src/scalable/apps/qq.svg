@@ -146,9 +146,11 @@
   <clipPath id="clipPath29400">
    <path d="m155 83.24h44v53h-44z"/>
   </clipPath>
-  <style type="text/css"/>
-  <style type="text/css"/>
-  <linearGradient id="linearGradient1607" x1="2.7478" x2="12.605" y1="15.542" y2="2.1968" gradientUnits="userSpaceOnUse">
+  <linearGradient id="a-3" x1="32" x2="32" y1="2" y2="62" gradientTransform="matrix(.26458 0 0 .26458 .066869 .21518)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f5faff" offset="0"/>
+   <stop stop-color="#cfdef0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1616" x1="7.8794" x2="14.4" y1="11.338" y2="1.4396" gradientUnits="userSpaceOnUse">
    <stop stop-color="#4bd2f5" offset="0"/>
    <stop stop-color="#5587ff" offset="1"/>
   </linearGradient>
@@ -162,6 +164,7 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
+ <circle cx="8.4665" cy="8.4665" r="7.9373" fill="url(#a-3)" image-rendering="optimizeSpeed" stroke-width=".26458" style="paint-order:stroke markers fill"/>
  <g transform="translate(-19.121 -.76756)" fill="#5e4aa6" stroke-width=".26458">
   <g transform="translate(-21.833 .89722)">
    <circle cx="-330.35" cy="-328.38" r="0"/>
@@ -484,7 +487,7 @@
    </g>
   </g>
  </g>
- <g fill="url(#linearGradient1607)" stroke-width=".46599">
+ <g transform="matrix(.70755 0 0 .70755 2.4953 2.4761)" fill="url(#linearGradient1616)" stroke-width=".46599">
   <path d="m13.411 14.755c-0.08611 0.68072-1.197 1.0997-2.4802 0.93683-1.2828-0.16366-2.2532-0.8481-2.1659-1.5292 0.086488-0.68072 1.197-1.1001 2.4798-0.93645 1.2835 0.16328 2.2528 0.8481 2.1663 1.5288"/>
   <path d="m3.7286 14.688c0.10103 0.68258 1.2548 1.1195 2.5786 0.97671 1.3234-0.14352 2.3139-0.81306 2.2129-1.496-0.10065-0.68221-1.2559-1.1195-2.579-0.97597-1.3234 0.14315-2.3147 0.81269-2.2125 1.4953"/>
   <path d="m13.296 5.8138c0 2.5439-2.0783 4.607-4.6431 4.607-2.5633 0-4.642-2.063-4.642-4.607 0-2.545 2.0787-4.6073 4.642-4.6073 2.5648 0 4.6431 2.0623 4.6431 4.6073"/>
@@ -504,5 +507,17 @@
   <path d="m7.0475 9.9158v2.0261s-0.83729 0.39628-1.5873-0.31948c-0.28742-0.274 0.15396-2.2241 0.15396-2.2241z"/>
   <path d="m5.5006 9.5244 1.5348 1.2291s0.025723-0.76832-0.00746-0.98715c-0.033547-0.21846-1.5273-0.35042-1.5273-0.35042"/>
   <path d="m8.8117 10.262c-1.9322 0-3.7536-0.68668-5.1921-1.9452-0.035042-0.030569-0.024231-0.12824-0.024231-0.12824s0.055173-0.21398 0.14688-0.72657c0.06412-0.35825 0.20951-0.79777 0.28668-0.79777 0.049208 0.040634 0.10848 0.094689 0.16701 0.14949 0.1055 0.09879 0.20764 0.20056 0.2412 0.23225 1.1907 1.1143 2.7333 1.7249 4.3743 1.7249 1.6328 0 3.1807-0.61063 4.3714-1.7223 0.0097-0.00895 0.26804 0.32582 0.38398 0.66618 0.12414 0.36459 0.24977 0.76124 0.13532 0.85183-1.3886 1.0982-3.0979 1.6955-4.8906 1.6955"/>
+ </g>
+ <g transform="translate(59.102 -13.453)" fill="#5e4aa6" image-rendering="optimizeSpeed" stroke-width=".26458">
+  <circle cx="-330.35" cy="-328.38" r="0"/>
+  <circle cx="-312.11" cy="-326.25" r="0"/>
+  <circle cx="-306.02" cy="-333.07" r="0"/>
+  <circle cx="-308.84" cy="-326.01" r="0"/>
+ </g>
+ <g transform="translate(59.102 -13.453)" fill="#5e4aa6" image-rendering="optimizeSpeed" stroke-width=".26458">
+  <circle cx="-330.35" cy="-328.38" r="0"/>
+  <circle cx="-312.11" cy="-326.25" r="0"/>
+  <circle cx="-306.02" cy="-333.07" r="0"/>
+  <circle cx="-308.84" cy="-326.01" r="0"/>
  </g>
 </svg>

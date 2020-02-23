@@ -6,10 +6,6 @@
    <stop stop-color="#7814aa" offset="0"/>
    <stop stop-color="#be2382" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient1159" x1="-184.75" x2="-170.2" y1="-1.2655" y2="-15.817" gradientTransform="translate(185.95 17.009)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#dc3282" offset="0"/>
-   <stop stop-color="#f05a50" offset="1"/>
-  </linearGradient>
   <linearGradient id="linearGradient958" x1="-272.21" x2="-275.5" y1="44.527" y2="50.385" gradientTransform="translate(-6.2404)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient956"/>
   <linearGradient id="linearGradient966" x1="-272.86" x2="-267.62" y1="54.907" y2="49.026" gradientTransform="translate(-6.2404)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#be1e6e" offset="0"/>
@@ -76,6 +72,10 @@
   <filter id="filter1305" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.61852427"/>
   </filter>
+  <linearGradient id="linearGradient959" x1="22.816" x2="38.476" y1="14.449" y2="-1.0493" gradientTransform="translate(-22.072 1.7668)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dc3282" offset="0"/>
+   <stop stop-color="#f05a50" offset="1"/>
+  </linearGradient>
  </defs>
  <metadata>
   <rdf:RDF>
@@ -86,7 +86,7 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <rect x="1.1906" y="1.1906" width="14.552" height="14.552" ry="1.2138" fill="url(#linearGradient1159)"/>
+ <circle cx="8.4665" cy="8.4665" r="7.9373" fill="url(#linearGradient959)"/>
  <g transform="matrix(.41203 0 0 .41203 121.72 -9.8022)">
   <circle transform="matrix(.99026 0 0 1.0107 -2.6773 .061443)" cx="-274.87" cy="44.339" r="12.37" filter="url(#filter1305)" opacity=".25"/>
   <circle cx="-274.87" cy="44.339" r="12.37" fill="#fff"/>
@@ -112,6 +112,6 @@
  <ellipse transform="matrix(.99354 0 0 1.1029 .054734 -.49295)" cx="8.4666" cy="6.4479" rx="2.3396" ry="1.5094" fill="url(#linearGradient1227)" filter="url(#filter1229)" opacity=".4"/>
  <ellipse transform="matrix(.99354 0 0 1.1029 .054734 -.49295)" cx="8.4666" cy="6.4479" rx="2.3396" ry="1.5094" fill="url(#linearGradient1227)" filter="url(#filter1229)" opacity=".4"/>
  <ellipse cx="8.4666" cy="5.6413" rx=".40359" ry=".29597" fill="#fff" filter="url(#filter1251)" opacity=".7"/>
- <circle transform="matrix(.86461 0 0 .86867 1.8515 .47768)" cx="13.675" cy="3.2411" r=".82681" filter="url(#filter1275)" opacity=".25"/>
- <circle cx="13.675" cy="3.2492" r=".69772" fill="#fff"/>
+ <circle transform="matrix(.86461 0 0 .86867 1.268 .98503)" cx="13.675" cy="3.2411" r=".82681" filter="url(#filter1275)" opacity=".25"/>
+ <circle cx="13.092" cy="3.7565" r=".69772" fill="#fff"/>
 </svg>

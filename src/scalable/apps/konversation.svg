@@ -147,16 +147,17 @@
    <path d="m155 83.24h44v53h-44z"/>
   </clipPath>
   <linearGradient id="linearGradient2932" x1="-184.63" x2="-170.37" y1="2.2065" y2="-15.685" gradientTransform="matrix(1 0 0 .75252 186.92 35.872)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#5587ff" offset="0"/>
-   <stop stop-color="#4bd2f5" offset="1"/>
+   <stop stop-color="#64c82d" offset="0"/>
+   <stop stop-color="#87eb32" offset="1"/>
   </linearGradient>
   <filter id="filter2997" x="-.032863" y="-.34435" width="1.0657" height="1.6887" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.10913848"/>
   </filter>
-  <style type="text/css"/>
-  <style type="text/css"/>
-  <style type="text/css"/>
-  <style type="text/css"/>
+  <linearGradient id="c-6" x1="24.535" x2="24.535" y1="12.568" y2="49.543" gradientTransform="matrix(.38004 0 0 .38004 -.68605 -1.2472)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#76dd38" offset="0"/>
+   <stop stop-color="#42c440" offset=".4"/>
+   <stop stop-color="#14ab4b" offset="1"/>
+  </linearGradient>
  </defs>
  <metadata>
   <rdf:RDF>
@@ -167,6 +168,7 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
+ <circle cx="8.4665" cy="8.4665" r="7.9373" color="#000000" fill="url(#c-6)" overflow="visible" stroke-width=".26458" style="isolation:auto;mix-blend-mode:normal"/>
  <g transform="translate(-21.834 .89695)" fill="#5e4aa6" stroke-width=".26458">
   <circle cx="-330.35" cy="-328.38" r="0"/>
   <circle cx="-312.11" cy="-326.25" r="0"/>
@@ -495,22 +497,34 @@
    </g>
   </g>
  </g>
- <g transform="matrix(.86138 0 0 .86138 -1.0085 -16.2)">
-  <rect x="5.1652" y="20.04" width="14.552" height="10.951" ry=".9134" fill="#4b73ff" stroke-width=".86748"/>
+ <g transform="matrix(.57143 0 0 .57143 2.2125 -7.4635)">
+  <rect x="5.1652" y="20.04" width="14.552" height="10.951" ry=".9134" fill="#14aa4b" stroke-width=".86748"/>
   <path d="m3.0854 23.969c-0.50602 0-0.91362 0.40708-0.91362 0.9131v9.1238c0 0.50602 0.4076 0.91362 0.91362 0.91362h1.1973l0.01912 2.7491 2.7486-2.7491h8.76c0.50603 0 0.9131-0.4076 0.9131-0.91362v-9.1238c0-0.50603-0.40708-0.9131-0.9131-0.9131z" fill="url(#linearGradient2932)" stroke-width=".86748"/>
   <g transform="translate(0 -.95358)">
    <g transform="translate(1.4314 -.52916)">
-    <rect transform="matrix(1.0025 0 0 .92301 37.303 16.885)" x="-33.199" y="13.207" width="7.9704" height=".76066" ry=".38033" fill="#5587ff" filter="url(#filter2997)" style="paint-order:stroke fill markers"/>
+    <rect transform="matrix(1.0025 0 0 .92301 37.303 16.885)" x="-33.199" y="13.207" width="7.9704" height=".76066" ry=".38033" fill="#14b432" filter="url(#filter2997)" style="paint-order:stroke fill markers"/>
     <rect x="4.031" y="28.922" width="7.9704" height=".76066" ry=".38033" fill="#fafafa" style="paint-order:stroke fill markers"/>
    </g>
-   <g transform="translate(1.4314 1.2237)">
-    <rect transform="matrix(1.0025 0 0 .92301 37.303 16.885)" x="-33.199" y="13.207" width="7.9704" height=".76066" ry=".38033" fill="#5587ff" filter="url(#filter2997)" style="paint-order:stroke fill markers"/>
+   <g transform="translate(1.4314,1.2237)">
+    <rect transform="matrix(1.0025 0 0 .92301 37.303 16.885)" x="-33.199" y="13.207" width="7.9704" height=".76066" ry=".38033" fill="#14b432" filter="url(#filter2997)" style="paint-order:stroke fill markers"/>
     <rect x="4.031" y="28.922" width="7.9704" height=".76066" ry=".38033" fill="#fafafa" style="paint-order:stroke fill markers"/>
    </g>
-   <g transform="translate(1.4314 2.9765)">
-    <rect transform="matrix(1.0025 0 0 .92301 37.303 16.885)" x="-33.199" y="13.207" width="7.9704" height=".76066" ry=".38033" fill="#5587ff" filter="url(#filter2997)" style="paint-order:stroke fill markers"/>
+   <g transform="translate(1.4314,2.9765)">
+    <rect transform="matrix(1.0025 0 0 .92301 37.303 16.885)" x="-33.199" y="13.207" width="7.9704" height=".76066" ry=".38033" fill="#14b432" filter="url(#filter2997)" style="paint-order:stroke fill markers"/>
     <rect x="4.031" y="28.922" width="7.9704" height=".76066" ry=".38033" fill="#fafafa" style="paint-order:stroke fill markers"/>
    </g>
   </g>
+ </g>
+ <g transform="translate(.76224 .72892)" fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-330.35" cy="-328.38" r="0"/>
+  <circle cx="-312.11" cy="-326.25" r="0"/>
+  <circle cx="-306.02" cy="-333.07" r="0"/>
+  <circle cx="-308.84" cy="-326.01" r="0"/>
+ </g>
+ <g transform="translate(.76224 .72892)" fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-330.35" cy="-328.38" r="0"/>
+  <circle cx="-312.11" cy="-326.25" r="0"/>
+  <circle cx="-306.02" cy="-333.07" r="0"/>
+  <circle cx="-308.84" cy="-326.01" r="0"/>
  </g>
 </svg>
