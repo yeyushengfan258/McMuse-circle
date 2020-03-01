@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
@@ -15,40 +14,7 @@
    sodipodi:docname="system-suspend-hibernate.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <defs
-     id="defs27">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient932"
-       id="linearGradient936"
-       gradientUnits="userSpaceOnUse"
-       x1="45"
-       y1="-18"
-       x2="75"
-       y2="-48"
-       gradientTransform="translate(5.7609305,52.091883)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient932">
-      <stop
-         style="stop-color:#7346ff;stop-opacity:1;"
-         offset="0"
-         id="stop928" />
-      <stop
-         style="stop-color:#4187ff;stop-opacity:1"
-         offset="1"
-         id="stop930" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient932"
-       id="linearGradient849"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(5.7609305,52.091883)"
-       x1="45"
-       y1="-18"
-       x2="75"
-       y2="-48" />
-  </defs>
+     id="defs27" />
   <sodipodi:namedview
      pagecolor="#c8c8c8"
      bordercolor="#666666"
@@ -59,14 +25,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="1023"
      id="namedview25"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-8.6779661"
+     inkscape:cx="-33.627119"
      inkscape:cy="16"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg23" />
   <metadata
@@ -82,36 +48,24 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="system-suspend-hibernate"
-     transform="translate(-42.634693,1.3574505)">
+     id="g944"
+     transform="matrix(0.9338224,0,0,0.9338224,-40.029345,46.816141)"
+     style="stroke:#323232;stroke-opacity:1">
+    <circle
+       transform="rotate(-45)"
+       r="13.750055"
+       cy="19.091883"
+       cx="65.760933"
+       id="path912"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#323232;stroke-width:2.49988961;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
     <rect
-       style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect887"
-       width="32"
-       height="32"
-       x="42.634693"
-       y="-1.3574505"
-       rx="0"
-       ry="0" />
-    <g
-       transform="translate(-1.365308,47.642551)"
-       id="g944">
-      <circle
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient849);stroke-width:2.49988961;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
-         id="path912"
-         cx="65.760933"
-         cy="19.091883"
-         r="13.750055"
-         transform="rotate(-45)" />
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient936);stroke-width:1.6544174;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
-         id="rect922"
-         width="28.345583"
-         height="0.55619526"
-         x="51.588139"
-         y="18.804934"
-         ry="0.27809763"
-         transform="rotate(-45)" />
-    </g>
+       transform="rotate(-45)"
+       ry="0.27809763"
+       y="18.804934"
+       x="51.588139"
+       height="0.55619526"
+       width="28.345583"
+       id="rect922"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#323232;stroke-width:1.6544174;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
   </g>
 </svg>
