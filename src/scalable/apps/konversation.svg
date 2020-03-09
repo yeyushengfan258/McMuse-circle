@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <clipPath id="clipPath13429">
    <path d="m481 318h22v22h-22z"/>
@@ -153,10 +153,9 @@
   <filter id="filter2997" x="-.032863" y="-.34435" width="1.0657" height="1.6887" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.10913848"/>
   </filter>
-  <linearGradient id="c-6" x1="24.535" x2="24.535" y1="12.568" y2="49.543" gradientTransform="matrix(.38004 0 0 .38004 -.68605 -1.2472)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#76dd38" offset="0"/>
-   <stop stop-color="#42c440" offset=".4"/>
-   <stop stop-color="#14ab4b" offset="1"/>
+  <linearGradient id="a-3-3" x1="32" x2="32" y1="2" y2="62" gradientTransform="matrix(.26458 0 0 .26458 .066869 .21518)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f5faff" offset="0"/>
+   <stop stop-color="#cfdef0" offset="1"/>
   </linearGradient>
  </defs>
  <metadata>
@@ -168,7 +167,7 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <circle cx="8.4665" cy="8.4665" r="7.9373" color="#000000" fill="url(#c-6)" overflow="visible" stroke-width=".26458" style="isolation:auto;mix-blend-mode:normal"/>
+ <circle cx="8.4665" cy="8.4665" r="7.9373" fill="url(#a-3-3)" image-rendering="optimizeSpeed" stroke-width=".26458" style="paint-order:stroke markers fill"/>
  <g transform="translate(-21.834 .89695)" fill="#5e4aa6" stroke-width=".26458">
   <circle cx="-330.35" cy="-328.38" r="0"/>
   <circle cx="-312.11" cy="-326.25" r="0"/>
@@ -515,16 +514,37 @@
    </g>
   </g>
  </g>
- <g transform="translate(.76224 .72892)" fill="#5e4aa6" stroke-width=".26458">
-  <circle cx="-330.35" cy="-328.38" r="0"/>
-  <circle cx="-312.11" cy="-326.25" r="0"/>
-  <circle cx="-306.02" cy="-333.07" r="0"/>
-  <circle cx="-308.84" cy="-326.01" r="0"/>
- </g>
- <g transform="translate(.76224 .72892)" fill="#5e4aa6" stroke-width=".26458">
-  <circle cx="-330.35" cy="-328.38" r="0"/>
-  <circle cx="-312.11" cy="-326.25" r="0"/>
-  <circle cx="-306.02" cy="-333.07" r="0"/>
-  <circle cx="-308.84" cy="-326.01" r="0"/>
+ <g fill="#5e4aa6">
+  <g transform="translate(.76224 .72892)" stroke-width=".26458">
+   <circle cx="-330.35" cy="-328.38" r="0"/>
+   <circle cx="-312.11" cy="-326.25" r="0"/>
+   <circle cx="-306.02" cy="-333.07" r="0"/>
+   <circle cx="-308.84" cy="-326.01" r="0"/>
+  </g>
+  <g transform="translate(.76224 .72892)" stroke-width=".26458">
+   <circle cx="-330.35" cy="-328.38" r="0"/>
+   <circle cx="-312.11" cy="-326.25" r="0"/>
+   <circle cx="-306.02" cy="-333.07" r="0"/>
+   <circle cx="-308.84" cy="-326.01" r="0"/>
+  </g>
+  <g transform="translate(21.382 -5.166)" stroke-width=".26458">
+   <g transform="translate(55.677,-3.157)">
+    <circle cx="-322.63" cy="-345.67" r="0"/>
+    <circle cx="-31.726" cy="-10.849" r="0" fill-rule="evenodd"/>
+    <circle cx="-306.92" cy="-328.72" r="0"/>
+   </g>
+   <g transform="translate(47.177,-15.995)" image-rendering="optimizeSpeed">
+    <circle cx="-330.35" cy="-328.38" r="0"/>
+    <circle cx="-312.11" cy="-326.25" r="0"/>
+    <circle cx="-306.02" cy="-333.07" r="0"/>
+    <circle cx="-308.84" cy="-326.01" r="0"/>
+   </g>
+   <g transform="translate(47.177,-15.995)" image-rendering="optimizeSpeed">
+    <circle cx="-330.35" cy="-328.38" r="0"/>
+    <circle cx="-312.11" cy="-326.25" r="0"/>
+    <circle cx="-306.02" cy="-333.07" r="0"/>
+    <circle cx="-308.84" cy="-326.01" r="0"/>
+   </g>
+  </g>
  </g>
 </svg>

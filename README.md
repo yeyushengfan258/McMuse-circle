@@ -6,4 +6,5 @@ A colorful design icon theme for all linux desktops!
 `./install.sh`
 
 ## view
-![Tencent](https://github.com/yeyushengfan258/Tencent-icon-theme/blob/master/view.png?raw=true)
+![view](View-1.png?raw=true)
+![view](View-2.png?raw=true)
