@@ -3,6 +3,15 @@ A colorful design icon theme for all linux desktops!
 
 ## Install
 
+### Arch Linux
+
+```bash
+git clone https://aur.archlinux.org/tencent-icon-theme-git.git ./tencent-icon-theme-git/
+cd ./tencent-icon-theme-git/
+makepkg -si
+```
+
+### Other
 `./install.sh`
 
 ## view
