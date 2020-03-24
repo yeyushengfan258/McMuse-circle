@@ -12,7 +12,7 @@ fi
 
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
-THEME_NAME=Tencent
+THEME_NAME=McMuse-circle
 COLOR_VARIANTS=('' '-dark')
 THEME_VARIANTS=('' '-green' '-black' '-yellow')
 

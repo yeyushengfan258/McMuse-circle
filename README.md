@@ -1,4 +1,4 @@
-## Tencent Icon Theme
+## McMuse-circle Icon Theme
 A colorful design icon theme for all linux desktops!
 
 ## Install
