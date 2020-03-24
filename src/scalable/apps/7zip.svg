@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient896" x1="-111.12" x2="-51.692" y1="40.184" y2="74.377" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fed54f" offset="0"/>
+   <stop stop-color="#ffbb4d" offset="1"/>
+  </linearGradient>
+  <filter id="filter912" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.13228907"/>
+  </filter>
+  <filter id="filter918" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.10583125"/>
+  </filter>
+  <filter id="filter924" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.079373436"/>
+  </filter>
+  <linearGradient id="linearGradient936" x1="-38.893" x2="-38.893" y1="8.9957" y2="10.583" gradientTransform="matrix(.96 0 0 .83333 15.647 6.3291)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c6d4e7" offset="0"/>
+   <stop stop-color="#d8e5f8" offset=".097346"/>
+   <stop stop-color="#fff" offset=".20734"/>
+   <stop stop-color="#f1f4f5" offset=".49769"/>
+   <stop stop-color="#a1aab0" offset=".73738"/>
+   <stop stop-color="#a2abb0" offset=".78932"/>
+   <stop stop-color="#a2a7a2" offset=".94113"/>
+   <stop stop-color="#d6d1b4" offset="1"/>
+  </linearGradient>
+  <filter id="filter968" x="-.12009" y="-.12009" width="1.2402" height="1.2402" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.066194553"/>
+  </filter>
+  <filter id="filter1016" x="-.036858" y="-.17692" width="1.0737" height="1.3538" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.097518237"/>
+  </filter>
+  <filter id="filter1024" x="-.10615" y="-.50953" width="1.2123" height="2.0191" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.28085546"/>
+  </filter>
+ </defs>
+ <circle cx="-330.38" cy="-328.51" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="-39.461" cy="6.3115" r="0" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
+ <g transform="translate(30.03 -3.35)">
+  <circle cx="-21.563" cy="11.816" r="7.9373" fill="#eca227"/>
+  <circle transform="matrix(1.0129 0 0 1.0129 .27899 -.15288)" cx="-21.563" cy="11.816" r="6.6145" fill="#e17800" filter="url(#filter912)"/>
+  <circle cx="-21.563" cy="11.816" r="6.6145" fill="#fff"/>
+  <circle cx="-21.563" cy="11.816" r="5.2916" fill="#323232" filter="url(#filter918)" opacity=".3"/>
+  <circle cx="-21.563" cy="11.816" r="5.2916" fill="#e8edf1"/>
+  <circle cx="-21.563" cy="11.816" r="3.9687" fill="#323232" filter="url(#filter924)" opacity=".3"/>
+  <circle cx="-21.563" cy="11.816" r="3.9687" fill="#fff"/>
+  <path transform="scale(.26458)" d="m-111.12 40.184a30 30 0 0 0-0.22461 1.4824 30 30 0 0 0-0.15039 2.9961 30 30 0 0 0 0.0742 2.1211 30 30 0 0 0 0.36133 2.9766 30 30 0 0 0 0.6582 2.9258 30 30 0 0 0 0.94531 2.8457 30 30 0 0 0 1.2246 2.7383 30 30 0 0 0 1.4922 2.6016 30 30 0 0 0 1.7441 2.4395 30 30 0 0 0 1.9785 2.252 30 30 0 0 0 2.1953 2.0449 30 30 0 0 0 2.3867 1.8145 30 30 0 0 0 2.5566 1.5664 30 30 0 0 0 2.7012 1.3047 30 30 0 0 0 2.8164 1.0293 30 30 0 0 0 2.9043 0.74023 30 30 0 0 0 2.9668 0.44922 30 30 0 0 0 2.9941 0.15039 30 30 0 0 0 2.123-0.07617 30 30 0 0 0 2.9766-0.36133 30 30 0 0 0 2.9258-0.65625 30 30 0 0 0 2.8457-0.94531 30 30 0 0 0 2.7363-1.2246 30 30 0 0 0 2.6016-1.4922 30 30 0 0 0 2.4395-1.7441 30 30 0 0 0 2.252-1.9805 30 30 0 0 0 2.0449-2.1934 30 30 0 0 0 1.8145-2.3867 30 30 0 0 0 1.5684-2.5566 30 30 0 0 0 1.3027-2.7012 30 30 0 0 0 1.0293-2.8164 30 30 0 0 0 0.74219-2.9062 30 30 0 0 0 0.44726-2.9648 30 30 0 0 0 0.15039-2.9941 30 30 0 0 0-0.07422-2.123 30 30 0 0 0-0.28516-2.3457c-0.86349-0.71174-1.9291-1.1934-3.1406-1.1934h-53c-1.2048 0-2.2636 0.47889-3.125 1.1836z" fill="url(#linearGradient896)"/>
+  <rect transform="matrix(.9966 0 0 .94778 -.073229 .38128)" x="-24.738" y="14.4" width="6.3499" height="1.3229" ry=".66145" fill="#e17d0a" filter="url(#filter1016)" opacity=".5"/>
+  <circle transform="matrix(1.0059 0 0 1.0872 .069746 -1.2013)" cx="-24.098" cy="14.491" r=".66145" fill="#e1820a" filter="url(#filter968)" opacity=".3"/>
+  <circle transform="matrix(1.0059 0 0 1.0872 5.2648 -1.2013)" cx="-24.098" cy="14.491" r=".66145" fill="#e1820a" filter="url(#filter968)" opacity=".3"/>
+  <rect transform="matrix(.95137 0 0 1.0727 -1.0486 -1.1273)" x="-24.738" y="14.4" width="6.3499" height="1.3229" ry=".66145" fill="#323232" filter="url(#filter1024)" opacity=".15"/>
+  <rect x="-24.738" y="13.825" width="6.3499" height="1.3229" ry=".66145" fill="url(#linearGradient936)"/>
+ </g>
+</svg>

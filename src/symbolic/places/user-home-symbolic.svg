@@ -1,6 +1,8 @@
-<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#555555; } .ColorScheme-Highlight { color:#5294e2; }</style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="m8.5 1.4141c-0.25562 0-0.51116 0.0971-0.70703 0.29297l-5.6562 5.6562c-0.39174 0.39174-0.39174 1.0223 0 1.4141 0.23669 0.23669 0.55752 0.313 0.86328 0.26367v4.959h2v-6.6719l3.5-3.5 3.5 3.5v6.6719h2v-4.959c0.30576 0.04933 0.62659-0.026981 0.86328-0.26367 0.39174-0.39174 0.39174-1.0223 0-1.4141l-5.6562-5.6562c-0.19587-0.19587-0.45141-0.29297-0.70703-0.29297zm0 7.5859c-0.831 0-1.5 0.669-1.5 1.5v2 1.5h3v-3-0.5c0-0.831-0.669-1.5-1.5-1.5z"/>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <g fill="gray">
+        <path color="#000" d="M14 5V3h-2.002z" overflow="visible" style="marker:none"/>
+        <path d="M2 7v8h9v-1H3V6.333zm11.002-1L13 15h1V7z" font-family="Ubuntu" font-size="15" font-weight="400" letter-spacing="0" style="line-height:125%;-inkscape-font-specification:Ubuntu;text-align:center" text-anchor="middle" word-spacing="0"/>
+        <path d="M8 8.986a8.47 8.47 0 0 1 .607-.122c.253-.043.543-.064.872-.064.295 0 .54.043.735.129.195.08.35.197.465.35.119.147.202.326.25.535.047.21.071.44.071.693V14.2H8z" font-family="Ubuntu" font-weight="400" letter-spacing="0" style="line-height:125%;-inkscape-font-specification:Ubuntu;text-align:end" text-anchor="end" word-spacing="0"/>
+        <path color="#000" d="M8 .293L.146 8.146l.708.708L8 1.707l7.146 7.147.708-.708z" fill-rule="evenodd" font-family="sans-serif" font-weight="400" overflow="visible" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" white-space="normal"/>
+    </g>
 </svg>

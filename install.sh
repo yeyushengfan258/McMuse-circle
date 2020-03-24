@@ -14,7 +14,7 @@ SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=Tencent
 COLOR_VARIANTS=('' '-dark')
-THEME_VARIANTS=('' '-red' '-pink' '-purple' '-blue' '-green' '-orange' '-brown' '-grey' '-black' '-yellow')
+THEME_VARIANTS=('' '-green' '-black' '-yellow')
 
 usage() {
   printf "%s\n" "Usage: $0 [OPTIONS...]"
