@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1912" x1="59.325" x2="4.1398" y1="46.119" y2="15.989" gradientTransform="matrix(.96593 -.25882 -.25882 -.96593 9.0947 70.823)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fb7c38" offset="0"/>
+   <stop stop-color="#9b33ae" offset="1"/>
+  </linearGradient>
+  <filter id="filter1947" x="-.029563" y="-.046021" width="1.0591" height="1.092" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.52240212"/>
+  </filter>
+ </defs>
+ <circle cx="32" cy="32" r="30" fill="#5d5d5d"/>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#b)" stroke-width="1.5715"/>
+ <circle cx="-1159.7" cy="-1249.8" r="0" fill="#5e4aa6"/>
+ <circle cx="-60.198" cy="15.719" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+ <g transform="matrix(1.3042 0 0 1.3042 -9.3685 -9.257)" stroke-width="2.2593">
+  <path d="m37.675 53.847c-12.269 3.2875-24.882-3.9943-28.169-16.263-2.9451-10.991 2.5954-22.252 12.601-26.844l32.516 18.773c1.0262 10.961-5.956 21.389-16.947 24.334z" fill="url(#linearGradient1912)"/>
+ </g>
+ <g stroke-width="2.9468">
+  <path transform="matrix(.97282 0 0 1.0287 .52891 -.13649)" d="m19.463 4.7496 42.41 24.486c-1.5179 0.69662-3.1097 1.2816-4.7773 1.7284-16.003 4.2879-32.453-5.2096-36.741-21.212-0.44679-1.6674-0.7361-3.3385-0.89178-5.0014z" filter="url(#filter1947)" opacity=".3"/>
+  <path d="m19.463 4.7496 42.41 24.486c-1.5179 0.69662-3.1097 1.2816-4.7773 1.7284-16.003 4.2879-32.453-5.2096-36.741-21.212-0.44679-1.6674-0.7361-3.3385-0.89178-5.0014z" fill="#faf8f6"/>
+  <path d="m14.672 7.5051-7e-6 48.971c-1.3623-0.96626-2.6647-2.0523-3.8855-3.273-11.715-11.715-11.715-30.71 9e-6 -42.425 1.2206-1.2206 2.5232-2.3068 3.8855-3.273z" opacity=".3"/>
+ </g>
+</svg>

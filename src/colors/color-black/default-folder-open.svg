@@ -2,10 +2,15 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
-  <linearGradient id="linearGradient938-3" x1="-23.256" x2="-7.173" y1="16.496" y2="16.496" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#5a5f64" offset="0"/>
-   <stop stop-color="#0f0f0f" offset="1"/>
+  <linearGradient id="linearGradient1011" x1="3.9687" x2="3.9687" y1="-12.171" y2="-6.879" gradientTransform="matrix(1 0 0 .99894 .52914 13.756)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#464646" offset="0"/>
+   <stop stop-color="#323232" offset="1"/>
   </linearGradient>
+  <linearGradient id="linearGradient921" x1="7.9373" x2="7.9373" y1="1.0583" y2="-8.2019" gradientTransform="translate(.52914 14.023)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#323232" offset="0"/>
+   <stop stop-color="#464646" offset="1"/>
+  </linearGradient>
+  <style type="text/css"/>
  </defs>
  <metadata>
   <rdf:RDF>
@@ -16,25 +21,31 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <circle cx="-330.35" cy="-328.38" r="0" fill="#5e4aa6" stroke-width=".26458"/>
- <circle cx="-330.17" cy="-334.81" r="0" fill="#5e4aa6" stroke-width=".26458"/>
- <g transform="translate(1.765e-5,-2.7777e-5)">
-  <g fill="#5e4aa6" stroke-width=".26458">
-   <circle cx="-330.35" cy="-328.38" r="0"/>
-   <circle cx="-312.11" cy="-326.25" r="0"/>
-   <circle cx="-306.02" cy="-333.07" r="0"/>
-   <circle cx="-308.84" cy="-326.01" r="0"/>
-   <circle cx="-328.8" cy="-330.45" r="0"/>
-  </g>
-  <g transform="matrix(.98705 0 0 .99334 .10913 .056365)">
-   <g transform="translate(-26.117,-1.6502)">
-    <g transform="translate(49.798,-6.3797)" fill-rule="evenodd">
-     <rect x="-18.961" y="11.065" width="11.087" height="8.1683" ry=".53121" fill="#0a0a0a" style="paint-order:stroke fill markers"/>
-     <path d="m-22.424 10.104c-0.46063 0-0.83146 0.37082-0.83146 0.83146v11.122c0 0.46063 0.37082 0.83146 0.83146 0.83146h14.42c0.46063 0 0.83146-0.37082 0.83146-0.83146v-7.5211c-3.35e-4 -0.22982-0.092859-0.43702-0.24287-0.58703-0.15029-0.15029-0.35827-0.24339-0.58858-0.24339h-6.6708c-0.52261 0-1.1422-0.37082-1.389-0.83146l-2.0288-2.7705z" fill="url(#linearGradient938-3)" style="paint-order:stroke fill markers"/>
-    </g>
-    <rect x="28.022" y="6.7975" width="4.238" height=".52916" rx=".20928" ry=".26458" fill="#0a0a0a" stroke-width=".91817" style="paint-order:fill markers stroke"/>
-   </g>
-   <path d="m7.511 12.964v-2.5501l-0.95543-5.07e-4s0.74306-1.3868 1.9109-2.7321c1.1678 1.3452 1.9109 2.7321 1.9109 2.7321l-0.95542 5.07e-4v2.5501zm0.31848-0.25506h1.2739v-2.5501l0.76759-3.86e-4c-0.20722-0.36074-0.64586-1.0721-1.4046-2.0029-0.75867 0.93072-1.1973 1.6422-1.4046 2.0029l0.76759 3.86e-4z" color="#000000" fill="#0a0a0a" stroke-width=".26931"/>
-  </g>
+ <g fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-330.35" cy="-328.38" r="0"/>
+  <circle cx="-312.11" cy="-326.25" r="0"/>
+  <circle cx="-306.02" cy="-333.07" r="0"/>
+  <circle cx="-308.84" cy="-326.01" r="0"/>
+  <circle cx="-328.8" cy="-330.45" r="0"/>
  </g>
+ <path d="m1.0583 1.852c-0.29315 0-0.52916 0.23575-0.52916 0.5286v9.2614c0 0.29284 0.236 0.5286 0.52916 0.5286h14.816c0.29315 0 0.52916-0.23576 0.52916-0.5286v-6.6075c0-0.21963-0.08855-0.4178-0.23202-0.56112s-0.34185-0.23178-0.56171-0.23178h-6.8651c-0.83239 0-1.7561-1.3313-2.1306-1.8604 0 0-0.26458-0.52916-0.80355-0.52916z" fill="url(#linearGradient1011)"/>
+ <rect x="1.3228" y="5.027" width="14.287" height="9.6192" ry=".52916" fill="#fff"/>
+ <path d="m0.26458 8.2019 0.26456 6.0853c0.019099 0.43932 0.35401 0.79373 0.79373 0.79373h14.287c0.43973 0 0.79373-0.354 0.79373-0.79373l0.26482-6.0853z" fill="url(#linearGradient921)"/>
+ <rect x=".26458" y="8.2019" width="16.404" height=".26458" fill="#fff" opacity=".3" stroke-width="1.0165"/>
+ <g transform="translate(24.108 -4.592)" fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-330.35" cy="-328.38" r="0"/>
+  <circle cx="-312.11" cy="-326.25" r="0"/>
+  <circle cx="-306.02" cy="-333.07" r="0"/>
+  <circle cx="-308.84" cy="-326.01" r="0"/>
+  <circle cx="-328.8" cy="-330.45" r="0"/>
+ </g>
+ <g transform="translate(2.3479 -14.944)" fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-330.35" cy="-328.38" r="0"/>
+  <circle cx="-312.11" cy="-326.25" r="0"/>
+  <circle cx="-306.02" cy="-333.07" r="0"/>
+  <circle cx="-308.84" cy="-326.01" r="0"/>
+  <circle cx="-328.8" cy="-330.45" r="0"/>
+ </g>
+ <rect x="2.1166" y="6.3499" width="12.7" height=".26458" ry=".13229" fill="#dcdcdc" stroke-width=".89442"/>
+ <rect x="2.1166" y="7.4082" width="12.7" height=".26458" ry=".13229" fill="#dcdcdc" stroke-width=".89442"/>
 </svg>
