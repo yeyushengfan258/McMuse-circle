@@ -8,83 +8,84 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   version="1.1"
-   id="svg17"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="system-shutdown.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   id="svg17"
+   version="1.1"
+   height="32"
+   width="32">
   <defs
      id="defs21">
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1990528,0,0,2.1990528,59.880029,-4.594071)"
-       y2="-11.929"
-       y1="0.70410001"
-       x2="-59.235001"
+       id="linearGradient1634"
        x1="-59.235001"
-       id="linearGradient1634">
-      <stop
-         id="stop4773"
-         offset="0"
-         stop-color="#d73782" />
-      <stop
-         id="stop4775"
-         offset="1"
-         stop-color="#eb554b" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1343"
-       id="linearGradient993"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-112.99942,44)"
-       x1="52"
-       y1="0"
-       x2="52"
-       y2="-32" />
-    <linearGradient
-       id="linearGradient1343"
-       x1="32"
-       x2="32"
-       y1="2"
-       y2="62"
-       gradientTransform="matrix(0.53333333,0,0,0.53333333,46.628051,-10.632912)"
+       x2="-59.235001"
+       y1="0.70410001"
+       y2="-11.929"
+       gradientTransform="matrix(2.1990528,0,0,2.1990528,59.880029,-4.594071)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#f5f6fa"
+         stop-color="#d73782"
          offset="0"
-         id="stop3456" />
+         id="stop4773" />
       <stop
-         stop-color="#e9ecf3"
-         offset=".45933"
-         id="stop3458" />
-      <stop
-         stop-color="#dee2ee"
+         stop-color="#eb554b"
          offset="1"
-         id="stop3460" />
+         id="stop4775" />
+    </linearGradient>
+    <linearGradient
+       y2="-32"
+       x2="52"
+       y1="0"
+       x1="52"
+       gradientTransform="translate(-112.99942,44)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient993"
+       xlink:href="#linearGradient1343"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.53333333,0,0,0.53333333,46.628051,-10.632912)"
+       y2="62"
+       y1="2"
+       x2="32"
+       x1="32"
+       id="linearGradient1343">
+      <stop
+         id="stop3456"
+         offset="0"
+         stop-color="#f5f6fa" />
+      <stop
+         id="stop3458"
+         offset=".45933"
+         stop-color="#e9ecf3" />
+      <stop
+         id="stop3460"
+         offset="1"
+         stop-color="#dee2ee" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
-     pagecolor="#c8c8c8"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     id="namedview19"
-     showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="31.457627"
-     inkscape:cy="11.932203"
-     inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg17"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg17" />
+     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:cy="11.932203"
+     inkscape:cx="31.457627"
+     inkscape:zoom="7.375"
+     showgrid="false"
+     id="namedview19"
+     inkscape:window-height="1023"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#c8c8c8" />
   <metadata
      id="metadata2">
     <rdf:RDF>
@@ -98,51 +99,51 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(80)"
-     id="system-shutdown">
+     id="system-shutdown"
+     transform="translate(80)">
     <rect
-       ry="0"
-       rx="0"
-       y="0"
-       x="-80"
-       height="32"
-       width="32"
+       style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect1131"
-       style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+       width="32"
+       height="32"
+       x="-80"
+       y="0"
+       rx="0"
+       ry="0" />
     <g
-       transform="translate(-3.0005837,44)"
-       id="g1078">
+       id="g1078"
+       transform="translate(-3.0005837,44)">
       <circle
-         cx="-60.999416"
-         cy="28"
-         r="16"
-         style="fill:url(#linearGradient993);fill-opacity:1;stroke-width:1.94116533;paint-order:stroke markers fill"
+         transform="scale(1,-1)"
          id="circle991"
-         transform="scale(1,-1)" />
+         style="fill:url(#linearGradient993);fill-opacity:1;stroke-width:1.94116533;paint-order:stroke markers fill;opacity:0.001"
+         r="16"
+         cy="28"
+         cx="-60.999416" />
       <g
-         id="g1134"
-         transform="translate(8.0005835)">
+         transform="translate(8.0005835)"
+         id="g1134">
         <rect
-           transform="rotate(90)"
-           ry="1"
-           y="67.99942"
-           x="-39"
-           height="2"
-           width="10"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.23606801;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
            id="rect1098"
-           style="opacity:1;fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.23606801;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
+           width="10"
+           height="2"
+           x="-39"
+           y="67.99942"
+           ry="1"
+           transform="rotate(90)" />
         <path
-           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#323232;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
-           id="path1108"
-           sodipodi:type="arc"
-           sodipodi:cx="-69"
-           sodipodi:cy="-28.000031"
-           sodipodi:rx="10.000031"
-           sodipodi:ry="10.000031"
-           sodipodi:start="5.4977871"
-           sodipodi:end="3.9269908"
+           d="m -61.92891,-35.071121 a 10.000031,10.000031 0 0 1 2.167735,10.897937 10.000031,10.000031 0 0 1 -9.238825,6.173185 10.000031,10.000031 0 0 1 -9.238824,-6.173185 10.000031,10.000031 0 0 1 2.167734,-10.897936"
            sodipodi:open="true"
-           d="m -61.92891,-35.071121 a 10.000031,10.000031 0 0 1 2.167735,10.897937 10.000031,10.000031 0 0 1 -9.238825,6.173185 10.000031,10.000031 0 0 1 -9.238824,-6.173185 10.000031,10.000031 0 0 1 2.167734,-10.897936" />
+           sodipodi:end="3.9269908"
+           sodipodi:start="5.4977871"
+           sodipodi:ry="10.000031"
+           sodipodi:rx="10.000031"
+           sodipodi:cy="-28.000031"
+           sodipodi:cx="-69"
+           sodipodi:type="arc"
+           id="path1108"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
       </g>
     </g>
   </g>

@@ -2,10 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
-  <linearGradient id="linearGradient938" x1="-23.256" x2="-7.173" y1="16.496" y2="16.496" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#5587ff" offset="0"/>
-   <stop stop-color="#4bd2f5" offset="1"/>
+  <linearGradient id="linearGradient1011" x1="3.9687" x2="3.9687" y1="-12.171" y2="-6.879" gradientTransform="matrix(1 0 0 .99894 1.0583 14.153)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#059bff" offset="0"/>
+   <stop stop-color="#005aff" offset="1"/>
   </linearGradient>
+  <linearGradient id="linearGradient921" x1="7.9373" x2="7.9373" y1="1.0583" y2="-8.2019" gradientTransform="translate(1.0583,14.42)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#005aff" offset="0"/>
+   <stop stop-color="#059bff" offset="1"/>
+  </linearGradient>
+  <style type="text/css"/>
+  <style type="text/css"/>
  </defs>
  <metadata>
   <rdf:RDF>
@@ -23,14 +29,11 @@
   <circle cx="-308.84" cy="-326.01" r="0"/>
   <circle cx="-328.8" cy="-330.45" r="0"/>
  </g>
- <g transform="matrix(.98705 0 0 .99334 .11011 .056365)">
-  <g transform="translate(-25.041,-4.1615)">
-   <g transform="translate(48.721,-3.8684)" fill-rule="evenodd">
-    <rect x="-18.961" y="11.065" width="11.087" height="8.1683" ry=".53121" fill="#4b73ff" style="paint-order:stroke fill markers"/>
-    <path d="m-22.424 10.104c-0.46063 0-0.83146 0.37082-0.83146 0.83146v11.122c0 0.46063 0.37082 0.83146 0.83146 0.83146h14.42c0.46063 0 0.83146-0.37082 0.83146-0.83146v-7.5211c-3.35e-4 -0.22982-0.092859-0.43702-0.24287-0.58703-0.15029-0.15029-0.35827-0.24339-0.58858-0.24339h-6.6708c-0.52261 0-1.1422-0.37082-1.389-0.83146l-2.0288-2.7705z" fill="url(#linearGradient938)" style="paint-order:stroke fill markers"/>
-   </g>
-   <rect x="26.946" y="9.3088" width="4.238" height=".52916" rx=".20928" ry=".26458" fill="#4b73ff" stroke-width=".91817" style="paint-order:fill markers stroke"/>
-  </g>
-  <path d="m9.9403 12.637-1.4782-1.0717-1.4833 1.0647 0.56244-1.7371-1.471-1.0816 1.8259-0.0019 0.57416-1.7333 0.56598 1.7359 1.8259 0.01045-1.476 1.0747z" fill="none" stroke="#4b73ff" stroke-dashoffset=".42096" stroke-width=".25246"/>
+ <g transform="translate(-.5293 -.39686)">
+  <path d="m1.5875 2.2489c-0.29315 0-0.52916 0.23575-0.52916 0.5286v9.2614c0 0.29284 0.236 0.5286 0.52916 0.5286h14.816c0.29315 0 0.52916-0.23576 0.52916-0.5286v-6.6075c0-0.21963-0.08855-0.4178-0.23202-0.56112s-0.34185-0.23178-0.56171-0.23178h-6.8651c-0.83239 0-1.7561-1.3313-2.1306-1.8604 0 0-0.26458-0.52916-0.80355-0.52916z" fill="url(#linearGradient1011)"/>
+  <rect x="1.852" y="5.4239" width="14.287" height="9.6192" ry=".52916" fill="#fff"/>
+  <path d="m1.0583 6.2176v8.4665c0 0.43973 0.35401 0.79373 0.79373 0.79373h14.287c0.43973 0 0.79373-0.354 0.79373-0.79373v-8.4665z" fill="url(#linearGradient921)"/>
+  <rect x="1.0583" y="6.2176" width="15.875" height=".26458" fill="#fff" opacity=".3"/>
  </g>
+ <path d="m9.8562 13.139-1.3938-1.0702-1.3986 1.0632 0.53034-1.7347-1.387-1.0801 1.7217-0.0019 0.54139-1.7309 0.53368 1.7335 1.7217 0.01044-1.3918 1.0732z" fill="none" stroke="#ffffff" stroke-dashoffset=".42096" stroke-width=".26458"/>
 </svg>

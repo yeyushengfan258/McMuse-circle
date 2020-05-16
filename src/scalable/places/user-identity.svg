@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="linearGradient866" x1=".52916" x2="16.404" y1="8.4665" y2="8.4665" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#5587ff" offset="0"/>
-   <stop stop-color="#4bd2f5" offset="1"/>
+  <linearGradient id="linearGradient912" x1="9.0937" x2="9.0937" y1="14.916" y2="2.017" gradientTransform="matrix(1.0235 0 0 1.0235 -.047072 -.35069)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#005aff" offset="0"/>
+   <stop stop-color="#059bff" offset="1"/>
   </linearGradient>
  </defs>
  <metadata>
@@ -23,8 +23,8 @@
   <circle cx="-308.84" cy="-326.01" r="0"/>
   <circle cx="-328.8" cy="-330.45" r="0"/>
  </g>
- <circle cx="8.4665" cy="8.4665" r="7.9373" fill="url(#linearGradient866)"/>
- <g transform="matrix(.8956 0 0 .88964 .79502 1.4213)" fill="#4b73ff">
+ <circle cx="8.6183" cy="8.3147" r="6.6145" fill="url(#linearGradient912)"/>
+ <g transform="matrix(.59327 0 0 .58932 3.3847 3.7996)" fill="#fff">
   <path d="m7.2242 8.556v0.39835s0.10755 0.85578-0.50008 1.1723c-0.60764 0.31647-2.6192 1.2658-2.7272 1.4416-0.10802 0.17582-0.26993 0.68298 0.18917 0.81192h8.7592c0.45911-0.12893 0.2972-0.6361 0.18917-0.81192s-2.1196-1.1251-2.7272-1.4416c-0.60764-0.31647-0.50008-1.1723-0.50008-1.1723v-0.39835h-1.3415z"/>
   <g transform="translate(.10535)">
    <path d="m10.452 6.6018c-0.26458 1.8862-0.88842 2.8929-1.9843 2.8929-1.0959 1e-7 -1.7198-1.0067-1.9843-2.8929-0.2414-1.7209 0-3.1436 1.9843-3.1436s2.2257 1.4227 1.9843 3.1436z"/>
