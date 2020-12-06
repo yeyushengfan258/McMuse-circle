@@ -11,16 +11,19 @@
  </metadata>
  <defs>
   <style type="text/css"/>
-  <linearGradient id="linearGradient975" x1="34.217" x2="34.217" y1="18.401" y2="35.982" gradientTransform="matrix(1.6956 0 0 1.6956 -26.731 -13.919)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#fff" offset="0"/>
-   <stop stop-color="#bedbf4" offset="1"/>
+  <linearGradient id="linearGradient914" x1="-45.771" x2="-45.771" y1="15.123" y2="74.41" gradientTransform="matrix(1.0069 0 0 1.0069 78.039 -13.2)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#01bbf8" offset="0"/>
+   <stop stop-color="#0089df" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient900" x1="-78.447" x2="-19.015" y1="1.9788" y2="61.411" gradientTransform="translate(80.522)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#63b3f3" offset="0"/>
-   <stop stop-color="#4097de" offset="1"/>
+  <linearGradient id="linearGradient918" x1="-45.771" x2="-45.771" y1="15.123" y2="74.41" gradientTransform="matrix(.75516 0 0 .75516 66.529 -1.8997)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0092ea" offset="0"/>
+   <stop stop-color="#006ed5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient934" x1="-101.27" x2="-72.416" y1="31.824" y2="31.824" gradientTransform="matrix(1.353 0 0 1.353 154.4 -15.832)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dbe9f9" offset="0"/>
+   <stop stop-color="#fefefd" offset="1"/>
   </linearGradient>
  </defs>
- <circle cx="32" cy="32" r="30" fill="url(#linearGradient900)" stroke-linecap="round" stroke-width="2.1492"/>
  <text x="-4.8131599" y="16.368023"><tspan x="-4.8131599" y="16.368023"/></text>
  <text x="-4.9240799" y="16.420322"><tspan x="-4.9240799" y="16.420322"/></text>
  <g fill="#5e4aa6">
@@ -38,5 +41,9 @@
    <circle cx="-308.84" cy="-326.01" r="0"/>
   </g>
  </g>
- <path d="m45.454 17.539c-0.45681 0.07455-0.88601 0.32175-1.179 0.72527l-14.757 20.523-10.75-7.7327c-0.80604-0.57994-1.9377-0.39643-2.5235 0.41065l-1.4075 1.9572c-0.57985 0.80609-0.39304 1.9377 0.41396 2.5235l14.164 10.19c0.40653 0.29245 0.88513 0.39897 1.3412 0.32455 0.45609-0.07444 0.88243-0.32964 1.169-0.73518l17.224-23.94c0.59574-0.82078 0.41196-1.9469-0.39409-2.5268l-1.9572-1.4075c-0.40304-0.28993-0.88774-0.38584-1.3445-0.31129z" fill="url(#linearGradient975)" stroke-linecap="round" stroke-width="3.3912"/>
+ <g>
+  <circle cx="32" cy="32" r="30" fill="url(#linearGradient914)"/>
+  <circle cx="32" cy="32" r="22.5" fill="url(#linearGradient918)"/>
+  <path d="m52.953 10.531c-3.6908 2.642-14.982 11.233-22.619 22.723l-9.3672-8.0293-3.582 3.3066 14.615 16.318s14.366-24.122 23.141-31.941a30 30 0 0 0-2.1875-2.377z" fill="url(#linearGradient934)"/>
+ </g>
 </svg>
