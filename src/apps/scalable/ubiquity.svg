@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient921" x1="165.97" x2="219.56" y1="30.777" y2="30.777" gradientTransform="matrix(1.1184 0 0 1.1184 -183.29 .57962)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f24e29" offset="0"/>
+   <stop stop-color="#f3603f" offset="1"/>
+  </linearGradient>
+  <filter id="filter1311-3" x="-.055746" y="-.042144" width="1.1115" height="1.0843" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.37163933"/>
+  </filter>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="32" cy="32" r="30" fill="#c02d0c" stroke-width=".52654" style="paint-order:stroke fill markers"/>
+  <circle cx="32" cy="32" r="26.5" fill="#71d92e" stroke-width=".46511" style="paint-order:stroke fill markers"/>
+  <circle cx="32" cy="32" r="22" fill="#6811ea" stroke-width=".38613" style="paint-order:stroke fill markers"/>
+  <circle cx="32" cy="32" r="18" fill="#fcfcfc" stroke-width=".31592" style="paint-order:stroke fill markers"/>
+  <path d="m46.646 14s-0.82552-4.14e-4 -1.4297 0.46484c-0.42995 0.33109-0.9104 0.88457-1.3477 1.6504-0.90299 1.5815-1.3633 2.3574-1.3633 2.3574h-36.787c-0.17795 0-0.34711 0.03076-0.51953 0.05078a30 30 0 0 0-3.1992 13.477 30 30 0 0 0 30 30 30 30 0 0 0 30-30 30 30 0 0 0-6.002-18z" fill="url(#linearGradient921)" stroke-width=".55215" style="paint-order:stroke fill markers"/>
+ </g>
+ <g fill="#c02d0c">
+  <rect x="24" y="49.816" width="16" height="4" ry="2" filter="url(#filter1311-3)" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(45 73.589 176.63)" x="-56.746" y="112.15" width="11" height="4" ry="2" filter="url(#filter1311-3)" style="paint-order:stroke fill markers"/>
+  <rect transform="matrix(-.70711 .70711 .70711 .70711 146.45 -.30171)" x="105.15" y="-49.746" width="11" height="4" ry="2" filter="url(#filter1311-3)" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(-90 73.074 -73.375)" x="-48.953" y="-116.47" width="16" height="4" ry="2" filter="url(#filter1311-3)" style="paint-order:stroke fill markers"/>
+ </g>
+ <g fill="#fff">
+  <rect x="24" y="49" width="16" height="4" ry="2" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(45)" x="46.019" y="7.8005" width="11" height="4" ry="2" style="paint-order:stroke fill markers"/>
+  <rect transform="matrix(-.70711 .70711 .70711 .70711 0 0)" x=".80051" y="53.019" width="11" height="4" ry="2" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(-90)" x="-47.836" y="29.976" width="16" height="4" ry="2" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>
